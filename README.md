@@ -103,8 +103,7 @@ title('Frequency Response of FIR HPF using Hamming Window');
 
 ### OUTPUT
 <img width="1458" height="1018" alt="hamming" src="https://github.com/user-attachments/assets/45264f9f-8835-4aaa-8e33-3623dcfe68af" />
-![WhatsApp Image 2025-11-20 at 13 16 08_d0aafea8](https://github.com/user-attachments/assets/084403c8-aaf7-4c1f-88a2-7e630bf3c6e7)
-
+<img width="1230" height="1006" alt="hanning" src="https://github.com/user-attachments/assets/d26a899d-95c9-4511-8a3f-99e5c3fd7728" />
 
 
 ### RESULT
