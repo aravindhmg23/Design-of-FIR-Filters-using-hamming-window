@@ -103,8 +103,6 @@ title('Frequency Response of FIR HPF using Hamming Window');
 
 ### OUTPUT
 <img width="1458" height="1018" alt="hamming" src="https://github.com/user-attachments/assets/45264f9f-8835-4aaa-8e33-3623dcfe68af" />
-<img width="1230" height="1006" alt="hanning" src="https://github.com/user-attachments/assets/d26a899d-95c9-4511-8a3f-99e5c3fd7728" />
-
 
 ### RESULT
 Design-of-FIR-Filters-using-hanning-window using SCILAB executed successfully.
